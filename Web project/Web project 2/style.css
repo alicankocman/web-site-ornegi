@@ -1,0 +1,318 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background: url(Resimler/foto1.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+}
+.container .navbar{
+    width: 100%;
+    height: 15%;
+    background: rgba(22,112,214,0.4);
+}
+.navbar .logo{
+   display: inline-block;
+   margin-left:50px;
+   margin-top:20px;
+}
+.container .logo a{
+   text-decoration: none;
+   font-size: 30px;
+   font-family: sans-serif;
+   color: wheat;    
+}
+.navbar ul{
+   float: right;
+   margin-right:20px ;
+}
+.navbar ul li{
+    list-style: nona;
+    display: inline-block;
+    margin: 0.8px;
+    line-height: 90px; 
+} 
+.navbar ul li a{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 6px 13px;
+    font-family: Roboto;
+    transition: 2s;
+}
+.navbar ul li a.active,
+.navbar ul li a:hover{
+    background: #ff6e00;
+    border-radius: 100px;
+}
+.container .center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: sans-serif;
+    color: wheat;
+    font-size: 30px;
+    font-weight: bold;
+    user-select: none;
+    text-align: center;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container1{
+    background: url(Resimler/foto2.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+}
+.container1 .navbar{
+    width: 100%;
+    height: 15%;
+    background: rgba(22,112,214,0.4);
+}
+.navbar .logo{
+   display: inline-block;
+   margin-left:50px;
+   margin-top:20px;
+}
+.container1 .logo a{
+   text-decoration: none;
+   font-size: 30px;
+   font-family: sans-serif;
+   color: wheat;    
+}
+.navbar ul{
+   float: right;
+   margin-right:20px ;
+}
+.navbar ul li{
+    list-style: nona;
+    display: inline-block;
+    margin: 0.8px;
+    line-height: 90px; 
+} 
+.navbar ul li a{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 6px 13px;
+    font-family: Roboto;
+    transition: 2s;
+}
+.navbar ul li a.active,
+.navbar ul li a:hover{
+    background: #ff6e00;
+    border-radius: 100px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container2{
+    background: url(Resimler/foto3.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+}
+.container2 .navbar{
+    width: 100%;
+    height: 15%;
+    background: rgba(22,112,214,0.4);
+}
+.navbar .logo{
+   display: inline-block;
+   margin-left:50px;
+   margin-top:20px;
+}
+.container2 .logo a{
+   text-decoration: none;
+   font-size: 30px;
+   font-family: sans-serif;
+   color: wheat;    
+}
+.navbar ul{
+   float: right;
+   margin-right:20px ;
+}
+.navbar ul li{
+    list-style: nona;
+    display: inline-block;
+    margin: 0.8px;
+    line-height: 90px; 
+} 
+.navbar ul li a{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 6px 13px;
+    font-family: Roboto;
+    transition: 2s;
+}
+.navbar ul li a.active,
+.navbar ul li a:hover{
+    background: #ff6e00;
+    border-radius: 100px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container3{
+    background: url(Resimler/foto4.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+}
+.container3 .navbar{
+    width: 100%;
+    height: 15%;
+    background: rgba(22,112,214,0.4);
+}
+.navbar .logo{
+   display: inline-block;
+   margin-left:50px;
+   margin-top:20px;
+}
+.container3 .logo a{
+   text-decoration: none;
+   font-size: 30px;
+   font-family: sans-serif;
+   color: wheat;    
+}
+.navbar ul{
+   float: right;
+   margin-right:20px ;
+}
+.navbar ul li{
+    list-style: nona;
+    display: inline-block;
+    margin: 0.8px;
+    line-height: 90px; 
+} 
+.navbar ul li a{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 6px 13px;
+    font-family: Roboto;
+    transition: 2s;
+}
+.navbar ul li a.active,
+.navbar ul li a:hover{
+    background: #ff6e00;
+    border-radius: 100px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container4{
+    background: url(Resimler/foto5.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+}
+.container4 .navbar{
+    width: 100%;
+    height: 15%;
+    background: rgba(22,112,214,0.4);
+}
+.navbar .logo{
+   display: inline-block;
+   margin-left:50px;
+   margin-top:20px;
+}
+.container4 .logo a{
+   text-decoration: none;
+   font-size: 30px;
+   font-family: sans-serif;
+   color: wheat;    
+}
+.navbar ul{
+   float: right;
+   margin-right:20px ;
+}
+.navbar ul li{
+    list-style: nona;
+    display: inline-block;
+    margin: 0.8px;
+    line-height: 90px; 
+} 
+.navbar ul li a{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 6px 13px;
+    font-family: Roboto;
+    transition: 2s;
+}
+.navbar ul li a.active,
+.navbar ul li a:hover{
+    background: #ff6e00;
+    border-radius: 100px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container5{
+    background: url(Resimler/foto6.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+}
+.container5 .navbar{
+    width: 100%;
+    height: 15%;
+    background: rgba(22,112,214,0.4);
+}
+.navbar .logo{
+   display: inline-block;
+   margin-left:50px;
+   margin-top:20px;
+}
+.container5 .logo a{
+   text-decoration: none;
+   font-size: 30px;
+   font-family: sans-serif;
+   color: wheat;    
+}
+.navbar ul{
+   float: right;
+   margin-right:20px ;
+}
+.navbar ul li{
+    list-style: nona;
+    display: inline-block;
+    margin: 0.8px;
+    line-height: 90px; 
+} 
+.navbar ul li a{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 6px 13px;
+    font-family: Roboto;
+    transition: 2s;
+}
+.navbar ul li a.active,
+.navbar ul li a:hover{
+    background: #ff6e00;
+    border-radius: 100px;
+}
+#connectt{
+    font-size: 100px;
+    text-align: center;
+    word-spacing:20px;
+
+
+
+
+
+
+
+}
